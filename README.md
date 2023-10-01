@@ -25,7 +25,7 @@ public OnPlayerConnectViaSampMobile(playerid)
 }
 ```
 
-<img src="screenshot.jpg" border="1" width="100" height="100"/>
+<img src="screenshot.jpg" border="1" width="490" height="370"/>
 
 # Functions
 ```pawn

@@ -29,7 +29,7 @@ public OnPlayerSpawn(playerid)
 
 # Functions
 ```pawn
-bool: IsPlayerUsingSampMobile(playerid);
+bool: IsPlayerUsingSampMobile(playerid); // Also works in OnPlayerConnect() callback
 ```
 
 # Callbacks

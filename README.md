@@ -1,6 +1,6 @@
 # SAMP-Mobile-Checker
 This includes detects players who are connected to the server with the [SA-MP Mobile](https://play.google.com/store/apps/details?id=ru.unisamp_mobile.launcher)
-<a href="https://play.google.com/store/apps/details?id=ru.unisamp_mobile.launcher"><img src="https://i.ibb.co/M7Rd20t/samp-mobile-icon.webp" alt="samp-mobile-icon" border="0" width="30" height="30"></a> client
+<a href="https://play.google.com/store/apps/details?id=ru.unisamp_mobile.launcher"><img src="https://i.ibb.co/M7Rd20t/samp-mobile-icon.webp" alt="samp-mobile-icon" border="0" width="30" height="30"/></a> client
 
 # How Does It Work
 The CI serial of SA-MP Mobile players is unique and same.
@@ -24,6 +24,8 @@ public OnPlayerConnectViaSampMobile(playerid)
     SendClientMessage(playerid, -1, "You are using SA-MP Mobile client!");
 }
 ```
+
+<img src="screenshot.jpg" border="1" width="100" height="100"/>
 
 # Functions
 ```pawn

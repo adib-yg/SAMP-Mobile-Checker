@@ -1,0 +1,7 @@
+{
+	"user": "adib-yg",
+	"repo": "SAMP-Mobile-Checker",
+	"tag": "1.0",
+	"entry": "test.pwn",
+	"output": "gamemodes/test.amx"
+}

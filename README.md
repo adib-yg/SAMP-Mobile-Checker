@@ -8,7 +8,7 @@ This include detects players who are connected to the server with the [SA-MP Mob
 Simply install to your project:
 
 ```bash
-sampctl package install adib-yg/SAMP-Mobile-Checker
+sampctl install adib-yg/SAMP-Mobile-Checker
 ```
 Include in your code and begin using the include:
 

@@ -39,7 +39,7 @@ public OnPlayerSpawn(playerid)
 }
 ```
 
-<img src="screenshot.jpg" border="1" width="490" height="370"/>
+<kbd><img src="screenshot.jpg"/></kbd>
 
 ## Functions
 ```pawn

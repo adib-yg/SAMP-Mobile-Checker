@@ -53,9 +53,10 @@
 
 	Description:
 
-		This includes detects players who are connected to the server with the SA-MP Mobile client
+		This includes detects players who are connected to the server with these SA-MP Mobile clients:
 		https://play.google.com/store/apps/details?id=ru.unisamp_mobile.launcher
-	
+		https://play.google.com/store/apps/details?id=ro.alynsampmobile.launcher&hl=en&gl=US&pli=1
+
 	-----------------------------------------------------------------------------
 
 	Functions:
@@ -105,7 +106,6 @@
 
 // -----------------------------------------------------------------------------
 
-// https://play.google.com/store/apps/details?id=ru.unisamp_mobile.launcher
 #define SAMP_MOBILE_CI_SERIAL 			"ED40ED0E8089CC44C08EE9580F4C8C44EE8EE990"
 
 #define IsPlayerUsingSampMobile(%0) 	s_SampMobilePlayer[%0]

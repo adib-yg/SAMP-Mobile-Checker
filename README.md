@@ -4,7 +4,7 @@
 This include detects players who are connected to the server with the SA-MP Mobile client.
 
 | [SA-MP Launcher](https://play.google.com/store/apps/details?id=ru.unisamp_mobile.launcher) <a href="https://play.google.com/store/apps/details?id=ru.unisamp_mobile.launcher"><img src="https://i.ibb.co/M7Rd20t/samp-mobile-icon.webp" alt="samp-mobile-icon" border="0" width="30" height="30"/></a> | Detected |
-| -------- | -------- |
+| --------- | --------- |
 | [**Alyn SA-MP Mobile**](https://play.google.com/store/apps/details?id=ro.alynsampmobile.launcher&hl=en&gl=US&pli=1) <a href="https://play.google.com/store/apps/details?id=ro.alynsampmobile.launcher&hl=en&gl=US&pli=1"><img src="https://play-lh.googleusercontent.com/M-cdx4P7FYmzHjijKtk8qNJcPRGQyVK6Z2HlJ48l07gKlkpfYSr0bz-Xq9RreeLfbh31=w240-h480-rw" alt="logo" border="0" width="30" height="30"></a> | **Detected** |
 
 ## Installation

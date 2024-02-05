@@ -35,7 +35,7 @@ public OnPlayerConnectViaSampMobile(playerid)
 
 public OnPlayerSpawn(playerid) 
 {
-    if(IsPlayerUsingSampMobile(playerid)) 
+    if (IsPlayerUsingSampMobile(playerid)) 
     {
         SendClientMessage(playerid, -1, "You are using SA-MP Mobile client!");
     }
